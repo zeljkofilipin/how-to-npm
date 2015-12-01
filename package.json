@@ -1,0 +1,19 @@
+{
+  "name": "@zeljko/how-to-npm",
+  "version": "1.0.0",
+  "description": "NodeSchool how-to-npm workshopper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeljkofilipin/how-to-npm.git"
+  },
+  "author": "Željko Filipin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeljkofilipin/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/zeljkofilipin/how-to-npm#readme"
+}
