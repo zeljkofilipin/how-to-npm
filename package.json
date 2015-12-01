@@ -15,8 +15,9 @@
   "bugs": {
     "url": "https://github.com/zeljkofilipin/how-to-npm/issues"
   },
-  "homepage": "https://github.com/zeljkofilipin/how-to-npm#readme",
+  "homepage": "https://github.com/zeljkofilipin/how-to-npm",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {}
 }
